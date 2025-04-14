@@ -1,2 +1,5 @@
 # Mon portfolio
- My personal website, dedicated to my studies and my projects, including information on my skills and experiences
+
+**Bienvenue** sur le dépôt GitHub de mon portfolio personnel, développé avec **WordPress**.
+
+Ce site met en avant mon profil de développeur web, mes compétences, mes projets, ainsi que mes expériences professionnelles.
