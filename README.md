@@ -1,4 +1,4 @@
-# Mon portfolio
+# 🌐 Portfolio Personnel
 
 **Bienvenue** sur le dépôt GitHub de mon portfolio personnel, développé avec **WordPress**.
 
