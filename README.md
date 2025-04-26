@@ -14,3 +14,4 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 - 📚 Liste de mes **formations** et **expériences professionnelles**
 - 🚀 Galerie de **projets réalisés**
 - 🌐 Liens vers mes profils **LinkedIn** et **GitHub**
+- ✉️ Formulaire de **contact** pour toute demande ou collaboration
