@@ -10,3 +10,5 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 ## 🧩 Fonctionnalités principales
 - ✅ Page d’accueil dynamique avec résumé de mon profil
 - 🧑‍💼 Section **À propos** pour en savoir plus sur moi
+- 🛠️ Détail de mes **compétences techniques et humaines**
+- 📚 Liste de mes **formations** et **expériences professionnelles**
