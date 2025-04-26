@@ -12,3 +12,5 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 - 🧑‍💼 Section **À propos** pour en savoir plus sur moi
 - 🛠️ Détail de mes **compétences techniques et humaines**
 - 📚 Liste de mes **formations** et **expériences professionnelles**
+- 🚀 Galerie de **projets réalisés**
+- 🌐 Liens vers mes profils **LinkedIn** et **GitHub**
