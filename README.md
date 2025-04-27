@@ -15,3 +15,6 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 - 🚀 Galerie de **projets réalisés**
 - 🌐 Liens vers mes profils **LinkedIn** et **GitHub**
 - ✉️ Formulaire de **contact** pour toute demande ou collaboration
+
+
+## ⚙️ Technologies utilisées
