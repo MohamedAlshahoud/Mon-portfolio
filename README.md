@@ -20,3 +20,5 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 ## ⚙️ Technologies utilisées
 - **WordPress** (CMS principal)
 - **PHP**, **HTML5**, **CSS3**
+- Plugins WordPress :
+  - **Elementor** (ou autre constructeur de page, si utilisé)
