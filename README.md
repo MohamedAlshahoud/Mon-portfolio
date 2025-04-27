@@ -22,3 +22,4 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 - Plugins WordPress :
   - **Elementor** (ou autre constructeur de page, si utilisé)
   - **Contact Form 7**
+  - **Fluent Forms**
