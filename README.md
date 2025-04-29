@@ -27,3 +27,4 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
   - **Lana Downloads Manager**
   - **Royal Elementor Addons**
   - **Tidio Chat**
+  - **WP Pusher**
