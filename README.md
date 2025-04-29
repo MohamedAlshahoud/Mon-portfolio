@@ -28,4 +28,5 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
   - **Royal Elementor Addons**
   - **Tidio Chat**
   - **WP Pusher**
+  - **WP Statistics**
   - **WP STAGING WordPress Backup Plugin - Backup Duplicator & Migration**
