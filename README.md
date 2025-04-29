@@ -24,3 +24,4 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
   - **Contact Form 7**
   - **Fluent Forms**
   - **UpdraftPlus - Sauvegarde/Restauration**
+  - **Lana Downloads Manager**
