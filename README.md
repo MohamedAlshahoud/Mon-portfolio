@@ -31,3 +31,5 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
   - **WP Statistics**
   - **En Haut ( To Top )**
   - **WP STAGING WordPress Backup Plugin - Backup Duplicator & Migration**
+ 
+## 📦 Installation locale
