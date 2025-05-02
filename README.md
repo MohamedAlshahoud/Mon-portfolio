@@ -37,3 +37,5 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 1. Cloner ce dépôt :
    ```bash
    git clone https://github.com/MohamedAlshahoud/Mon-portfolio
+
+2. Installer WordPress
