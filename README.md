@@ -33,3 +33,7 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
   - **WP STAGING WordPress Backup Plugin - Backup Duplicator & Migration**
  
 ## 📦 Installation
+
+1. Cloner ce dépôt :
+   ```bash
+   git clone https://github.com/tonutilisateur/ton-depot.git
