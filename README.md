@@ -40,4 +40,4 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 
 2. Installer WordPress
 3. Importer la base de données (fichier .sql si fourni)
-4. 
+4. Copier les fichiers dans le dossier wp-content/themes ou wp-content/plugins selon l'organisation du dépôt
