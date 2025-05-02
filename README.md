@@ -39,3 +39,5 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
    git clone https://github.com/MohamedAlshahoud/Mon-portfolio
 
 2. Installer WordPress
+3. Importer la base de données (fichier .sql si fourni)
+4. 
