@@ -44,3 +44,4 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 5. Configurer le fichier wp-config.php
 
 🚧 Améliorations prévues
+- Ajout d’un **chat intelligent**
