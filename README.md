@@ -47,3 +47,4 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 - Ajout d’un **chat intelligent**
 - **Traduction** multilingue du site
 - Optimisation **SEO**
+- Intégration d’un blog personnel
