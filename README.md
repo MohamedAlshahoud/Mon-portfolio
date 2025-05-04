@@ -53,3 +53,5 @@ Vous pouvez me joindre directement :
 - [LinkedIn](https://www.linkedin.com/in/mohamed-alshahoud/)
 - [Portfolio](https://mohamedalshahoud.com/)
 - [Email](alshahoudmohamed95@gmail.com)
+
+Merci pour votre visite et n'hésitez pas à laisser un ⭐️ si vous appréciez mon travail !
