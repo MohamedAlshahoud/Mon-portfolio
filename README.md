@@ -48,7 +48,7 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 - Optimisation **SEO**
 
 ## 📫 Me contacter
-Vous pouvez me joindre via la page de contact sur le site, ou directement :
+Vous pouvez me joindre directement :
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-alshahoud/)
 - [Portfolio](https://mohamedalshahoud.com/)
