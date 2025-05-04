@@ -50,6 +50,6 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 ## 📫 Me contacter
 Vous pouvez me joindre via la page de contact sur le site, ou directement :
 
-LinkedIn
-
-GitHub
+- [LinkedIn](https://www.linkedin.com/in/mohamed-alshahoud/)
+- [Portfolio](https://mohamedalshahoud.com/)
+- [Email](alshahoudmohamed95@gmail.com)
