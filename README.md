@@ -46,3 +46,10 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 ## 🚧 Améliorations prévues
 - **Traduction** multilingue du site
 - Optimisation **SEO**
+
+## 📫 Me contacter
+Vous pouvez me joindre via la page de contact sur le site, ou directement :
+
+LinkedIn
+
+GitHub
