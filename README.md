@@ -54,5 +54,9 @@ Vous pouvez me joindre directement :
 - [Portfolio](https://mohamedalshahoud.com/)
 - [Email](alshahoudmohamed95@gmail.com)
 
+
+## Auteur
+- **Mohamed Alshahoud** - Développeur Web Full Stack
+
 ##
 Merci pour votre visite et n'hésitez pas à laisser un ⭐️ si vous appréciez mon travail !
