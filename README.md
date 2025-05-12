@@ -20,7 +20,7 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
 ## ⚙️ Technologies utilisées
 - **WordPress** (CMS principal)
 - Plugins WordPress :
-  - **Elementor** (ou autre constructeur de page, si utilisé)
+  - **Elementor**
   - **Contact Form 7**
   - **Fluent Forms**
   - **UpdraftPlus - Sauvegarde/Restauration**
