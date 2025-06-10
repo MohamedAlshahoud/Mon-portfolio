@@ -56,7 +56,7 @@ Vous pouvez me joindre directement :
 
 
 ## Auteur
-- **Mohamed Alshahoud** - Développeur Web Full Stack
+- **Mohamed Alshahoud** - **Développeur Web Full Stack**
 
 ##
 Merci pour votre visite et n'hésitez pas à laisser un ⭐️ si vous appréciez mon travail !
