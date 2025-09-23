@@ -34,7 +34,7 @@ Il comprend une section "**À propos de moi**" pour mieux me connaître, un espa
  
 ## 📦 Installation
 
-1. Cloner ce dépôt :
+1. **Cloner ce dépôt** :
    ```bash
    git clone https://github.com/MohamedAlshahoud/Mon-portfolio
 
