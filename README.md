@@ -1,6 +1,6 @@
 # 🌐 Portfolio Personnel
 
-**Bienvenue** sur le dépôt GitHub de mon portfolio personnel, créé avec **WordPress**.
+**Bienvenue** sur le dépôt GitHub de **mon portfolio personnel**, créé avec **WordPress**.
 
 ## ✨ Présentation
 
