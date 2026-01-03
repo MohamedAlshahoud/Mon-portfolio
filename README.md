@@ -59,4 +59,4 @@ Vous pouvez me joindre directement :
 - **Mohamed Alshahoud** - **Développeur Web Full Stack**
 
 ##
-Merci pour votre **visite** et n'hésitez pas à laisser un ⭐️ si vous appréciez mon travail !
+**Merci** pour votre **visite** et n'hésitez pas à laisser un ⭐️ si vous appréciez mon travail !
